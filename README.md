@@ -28,20 +28,3 @@ Here is an outline for a Jupyter notebook sentiment analysis project on news hea
 
 - Label headlines as positive, negative or neutral based on polarity threshold
 
-## Visualization
-
-- Plot histograms showing sentiment distribution
-
-- Show top positive and negative headlines
-
-- Compare sentiment across different news outlets
-
-## Write-up
-
-- Explain motivation for analyzing news sentiment
-
-- Discuss insights gained from the analysis
-
-- Reflect on limitations and future improvements
-
-Let me know if you would like me to clarify or expand on any part of this outline! I'm happy to assist further as you develop your project.  
